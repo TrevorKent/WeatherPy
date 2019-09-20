@@ -1,2 +1,2 @@
 # WeatherPy
-Homework #6
+This project envolves pulling weather data from an API.
